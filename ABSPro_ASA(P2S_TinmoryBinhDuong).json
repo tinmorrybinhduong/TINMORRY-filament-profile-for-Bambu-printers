@@ -22,7 +22,7 @@
     ],
     "from": "User",
     "inherits": "Generic ABS @BBL P2S",
-    "name": "P2S-ABS pro,ASA(耗材）",
+    "name": "P2S-ABS pro,ASA(TinmorryBinhDuong）",
     "nozzle_temperature_initial_layer": [
         "270",
         "nil"
