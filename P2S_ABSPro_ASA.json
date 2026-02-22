@@ -1,0 +1,31 @@
+{
+    "fan_max_speed": [
+        "40"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.98",
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "20",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "P2S-ABS pro,ASA(耗材）"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS @BBL P2S",
+    "name": "P2S-ABS pro,ASA(耗材）",
+    "nozzle_temperature_initial_layer": [
+        "270",
+        "nil"
+    ],
+    "version": "2.3.0.2"
+}
