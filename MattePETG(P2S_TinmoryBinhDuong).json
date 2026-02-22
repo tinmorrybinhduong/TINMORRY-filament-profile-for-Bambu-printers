@@ -18,7 +18,7 @@
     ],
     "from": "User",
     "inherits": "Generic PETG @BBL P2S",
-    "name": "P2S-哑光PETG(耗材）",
+    "name": "P2S-MattePETG(TinmorryBinhDuong）",
     "nozzle_temperature": [
         "240",
         "nil"
