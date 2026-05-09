@@ -10,7 +10,7 @@
         "Direct Drive High Flow"
     ],
     "filament_flow_ratio": [
-        "0.96",
+        "0.98",
         "nil"
     ],
     "filament_settings_id": [
@@ -20,11 +20,11 @@
     "inherits": "Generic PETG @BBL P2S",
     "name": "P2S-MattePETG(TinmorryBinhDuong）",
     "nozzle_temperature": [
-        "240",
+        "230",
         "nil"
     ],
     "nozzle_temperature_initial_layer": [
-        "240",
+        "230",
         "nil"
     ],
     "nozzle_temperature_range_high": [
