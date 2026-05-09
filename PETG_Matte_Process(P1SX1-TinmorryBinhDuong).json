@@ -11,7 +11,7 @@
     "print_extruder_variant": [
         "Direct Drive Standard"
     ],
-    "print_settings_id": ""P1sX1_PETG_Matte（TinmorryBinhDuong）",
+    "print_settings_id": "P1sX1_PETG_Matte（TinmorryBinhDuong）",
     "sparse_infill_density": "10%",
     "sparse_infill_pattern": "gyroid",
     "version": "2.0.0.91",
