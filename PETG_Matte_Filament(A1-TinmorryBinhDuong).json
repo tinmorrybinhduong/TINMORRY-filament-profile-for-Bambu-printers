@@ -32,5 +32,11 @@
     "nozzle_temperature_range_low": [
         "230"
     ],    
+    "textured_plate_temp": [
+        "70"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "70"
+    ],
     "version": "2.0.0.91"
 }
