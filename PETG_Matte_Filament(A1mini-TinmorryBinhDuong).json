@@ -15,11 +15,11 @@
         "10"
     ],
     "filament_settings_id": [
-        "PETG-Matte(A1mini-Bambu-TINMORRY-BinhDuong)"
+        "PETG-Matte(A1mini-TinmorryBinhDuong)"
     ],
     "from": "User",
     "inherits": "Generic PETG @BBL A1M",
-    "name": "PETG-Matte(A1mini-Bambu-TINMORRY-BinhDuong)",
+    "name": "PETG-Matte(A1mini-TinmorryBinhDuong)",
     "nozzle_temperature": [
         "230"
     ],
