@@ -9,7 +9,7 @@
         "Direct Drive Standard"
     ],
     "filament_flow_ratio": [
-        "0.96"
+        "0.98"
     ],
     "filament_max_volumetric_speed": [
         "10"
@@ -21,10 +21,10 @@
     "inherits": "Generic PETG @BBL A1M",
     "name": "PETG-Matte(A1mini-Bambu-TINMORRY-BinhDuong)",
     "nozzle_temperature": [
-        "240"
+        "230"
     ],
     "nozzle_temperature_initial_layer": [
-        "240"
+        "230"
     ],
     "nozzle_temperature_range_high": [
         "260"
