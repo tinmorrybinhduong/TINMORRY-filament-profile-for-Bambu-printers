@@ -1,0 +1,23 @@
+{
+    "enable_overhang_speed": [
+        "0",
+        "nil"
+    ],
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X2D",
+    "name": "X2D_PETG_Matte(TinmorryBinhDuong）",
+    "print_extruder_id": [
+        "1",
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "print_settings_id": "X2D_PETG_Matte(TinmorryBinhDuong）",
+    "sparse_infill_pattern": "gyroid",
+    "version": "2.3.0.2",
+    "wall_generator": "arachne",
+    "wall_loops": "3",
+    "wall_sequence": "inner-outer-inner wall"
+}
