@@ -1,6 +1,6 @@
 {
     "enable_overhang_speed": [
-        "1"
+        "0"
     ],
     "from": "User",
     "inherits": "0.20mm Standard @BBL A1",
