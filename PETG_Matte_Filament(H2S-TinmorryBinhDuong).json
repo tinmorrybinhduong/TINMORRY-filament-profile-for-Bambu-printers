@@ -1,0 +1,31 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.98",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "PETG_Matte(H2S--TinmorryBinhDuong)"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL H2S",
+    "name": "PETG_Matte(H2S-TinmorryBinhDuong)",
+    "nozzle_temperature": [
+        "230",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230",
+        "nil"
+    ],
+    "textured_plate_temp": [
+        "70"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "70"
+    ],
+    "version": "2.2.0.3"
+}
